@@ -24,4 +24,4 @@ In order to run these files, we will have to use the following commands, respect
 
  - `ruby encanto/example.rb`
 
- ![encanto][encanto.jpeg]
+ ![encanto](encanto.jpeg)
