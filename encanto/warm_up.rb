@@ -11,6 +11,6 @@ cousins = [["Isabella", "Luisa", "Mirabel"], ["Dolores", "Camilo", "Antonio"]]
 # 5. What command will return 'Dolores?'
             cousins[1][0]
 # 6. What command(s) will return the integer 3?
-            cousins[0].size or cousins[1].size
+            cousins[0].size, cousins[1].size
 # 7. What is the value of cousins[2]? Why?
-            nil, There are only two elements in the cousins array and the '2' would represent a third element, which doesn't exist
+            nil, There are only two elements in the cousins array, and '2' would represent a third element which doesn't exist
