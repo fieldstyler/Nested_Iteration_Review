@@ -17,11 +17,13 @@ familia_madrigal = {
 
 def names(family)
   # Insert code here
-  family.map do |key, value|
-    value.map do |member|
-      member[:nombre]
+  names = []
+  family.each do |key, value|
+    value.each do |member|
+      names << member[:nombre]
     end
   end
+  names
 end
 
 def madrigal_count(family)
