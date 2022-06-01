@@ -1,4 +1,4 @@
-## Nested_Iteration_Review
+# Nested_Iteration_Review
 
 Welcome to the nested iterations review lesson!
 
@@ -16,12 +16,12 @@ Once you are here, open up the project with your preferred text editor.
 
 ### Files
 
-There are two files we will be working with.
-
-We will start with `warm_up.rb` and move on to `example.rb`
+There are two files we will be working with. We will start with `warm_up.rb` and move on to `example.rb`
 
 In order to run these files, we will have to use the following commands, respectively:
 
  - `ruby encanto/warm_up.rb`
 
  - `ruby encanto/example.rb`
+
+ ![encanto][encanto.jpeg]
